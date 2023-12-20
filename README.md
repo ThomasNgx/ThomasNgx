@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 <!--
 **ThomasNgx/ThomasNgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Thomas, a passionate software developer with a strong interest in web technologies. I enjoy working on projects that challenge me and allow me to learn and grow. Currently, I am focusing on expanding my knowledge in front-end development and exploring new frameworks and libraries. If you have any questions or would like to collaborate, feel free to reach out to me. Let's create something amazing together!
